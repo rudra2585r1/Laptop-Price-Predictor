@@ -1,5 +1,4 @@
 # Laptop Price Predictor 💻
-
 This project predicts laptop prices based on specifications like:
 
 - Brand
@@ -20,4 +19,5 @@ This project predicts laptop prices based on specifications like:
 ## How to Run
 
 path of 'app.py'
+
 python app.py
