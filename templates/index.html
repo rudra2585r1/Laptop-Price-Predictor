@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laptop Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="main-container">
+
+        <h1 class="heading">Laptop Price Predictor 💻</h1>
+
+        <div class="filter-card">
+
+            <form action="/predict" method="POST">
+
+                <div class="form-group">
+                    <label>Brand</label>
+                    <select name="brand">
+                        {% for brand in brands %}
+                            <option value="{{brand}}">{{brand}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Processor</label>
+                    <select name="processor">
+                        {% for processor in processors %}
+                            <option value="{{processor}}">{{processor}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>RAM (GB)</label>
+                    <input type="number" name="ram" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Screen Size (inch)</label>
+                    <input type="number" step="0.1" name="screen_size" required>
+                </div>
+
+                <div class="form-group">
+                    <label>SSD (GB)</label>
+                    <input type="number" name="ssd" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Operating System</label>
+                    <select name="os">
+                        {% for os in os_list %}
+                            <option value="{{os}}">{{os}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <button type="submit" class="predict-btn">
+                    Predict Price
+                </button>
+
+            </form>
+
+            {% if prediction %}
+                <div class="result-box">
+                    Predicted Price: ₹ {{prediction}}
+                </div>
+            {% endif %}
+
+        </div>
+    </div>
+
+</body>
+</html>

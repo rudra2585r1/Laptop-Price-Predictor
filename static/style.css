@@ -1,0 +1,96 @@
+/* Full Page Background */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #000000, #1a1a1a);
+    color: white;
+}
+
+/* Center Container */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Heading */
+.heading {
+    font-size: 38px;
+    margin-bottom: 30px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+/* Card Style like Flipkart filter */
+.filter-card {
+    background-color: #111;
+    padding: 30px 40px;
+    border-radius: 12px;
+    width: 350px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.8);
+}
+
+/* Form Group */
+.form-group {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Labels */
+label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #bbb;
+}
+
+/* Inputs and Select */
+input, select {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #333;
+    background-color: #1f1f1f;
+    color: white;
+    font-size: 14px;
+    outline: none;
+    transition: 0.3s ease;
+}
+
+/* Hover effect */
+input:focus, select:focus {
+    border-color: #2874f0;  /* Flipkart blue */
+    box-shadow: 0 0 8px #2874f0;
+}
+
+/* Button */
+.predict-btn {
+    margin-top: 15px;
+    width: 100%;
+    padding: 12px;
+    background-color: #2874f0;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.predict-btn:hover {
+    background-color: #1c5ed6;
+}
+
+/* Result Box */
+.result-box {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #1f1f1f;
+    border-left: 5px solid #2874f0;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    text-align: center;
+}
