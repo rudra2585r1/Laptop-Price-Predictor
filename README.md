@@ -18,6 +18,5 @@ This project predicts laptop prices based on specifications like:
 
 ## How to Run
 
-path of 'app.py'
-
-python app.py
+- Paste the path of 'app.py' in a new terminal than run it
+- After that run this Python app.py
