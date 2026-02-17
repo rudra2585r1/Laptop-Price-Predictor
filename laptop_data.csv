@@ -1,0 +1,251 @@
+Brand,Processor,Ram,Screen_Size,SSD,Operating_System,Price
+HP,AMD Ryzen 3,4,15.6,2048,Linux,112010
+Lenovo,Intel i7,16,15.6,2048,Windows 10,161995
+Razer,AMD Ryzen 9,4,16,256,Windows 10,140398
+Samsung,AMD Ryzen 5,16,17.3,128,Windows 10,109337
+Apple,Apple M2,8,15.6,128,macOS,175782
+Samsung,Intel i5,16,13.3,2048,Windows 11,141396
+Samsung,AMD Ryzen 3,16,14,512,Windows 10,99925
+LG,Intel i7,4,17.3,256,Windows 10,106444
+MSI,Intel i3,64,14,128,Windows 11,208838
+Apple,Apple M2,8,15.6,2048,macOS,209396
+Asus,Intel i3,4,15.6,1024,Windows 11,89949
+Acer,AMD Ryzen 5,4,14,2048,Windows 10,114859
+MSI,AMD Ryzen 3,4,14,1024,Windows 11,101897
+HP,Intel i9,64,14,256,Windows 10,245146
+Lenovo,AMD Ryzen 7,16,16,1024,Windows 10,150915
+HP,Intel i3,16,13.3,1024,Windows 11,122129
+Dell,AMD Ryzen 7,16,17.3,512,Linux,138696
+Dell,Intel i7,4,16,512,Windows 11,112739
+Apple,Apple M3,32,16,1024,macOS,260760
+Acer,Intel i7,16,16,256,Windows 10,122793
+LG,Intel i5,4,14,128,Linux,79004
+Infinix,Intel i5,4,16,1024,Linux,105697
+Dell,AMD Ryzen 3,8,14,2048,Windows 10,122350
+Lenovo,AMD Ryzen 5,4,17.3,256,Linux,92273
+Asus,AMD Ryzen 9,4,17.3,512,Windows 10,131127
+Microsoft,AMD Ryzen 5,16,14,2048,Windows 11,149508
+Acer,AMD Ryzen 5,32,15.6,256,Linux,146411
+Samsung,AMD Ryzen 5,32,14,2048,Windows 10,177675
+Microsoft,Intel i7,8,15.6,512,Windows 11,118733
+Microsoft,Intel i7,4,15.6,1024,Windows 10,122748
+Microsoft,Intel i5,8,13.3,512,Linux,100335
+MSI,AMD Ryzen 5,8,14,128,Windows 11,106653
+Samsung,AMD Ryzen 7,8,14,512,Windows 11,117506
+Samsung,Intel i5,16,13.3,1024,Linux,118997
+MSI,Intel i5,32,16,256,Windows 10,155760
+Razer,Intel i9,16,17.3,128,Windows 10,163484
+Acer,AMD Ryzen 3,8,16,128,Windows 10,83917
+Samsung,AMD Ryzen 9,64,16,128,Windows 11,239729
+Dell,Intel i9,4,15.6,2048,Windows 10,162018
+Asus,AMD Ryzen 3,4,16,128,Linux,71437
+Samsung,AMD Ryzen 9,64,16,256,Linux,241033
+Razer,AMD Ryzen 3,16,16,1024,Linux,132776
+Asus,AMD Ryzen 7,64,15.6,128,Windows 10,214775
+Razer,Intel i3,16,15.6,2048,Windows 11,153263
+Acer,Intel i3,16,16,512,Linux,106301
+Lenovo,AMD Ryzen 3,16,14,512,Windows 10,106980
+LG,AMD Ryzen 3,64,13.3,128,Windows 10,188325
+Microsoft,Intel i9,64,13.3,1024,Windows 11,259362
+Asus,Intel i5,64,15.6,2048,Windows 10,242019
+Acer,AMD Ryzen 5,8,15.6,1024,Windows 11,113152
+Xiaomi,AMD Ryzen 7,32,14,2048,Windows 10,195438
+Microsoft,AMD Ryzen 5,32,16,128,Windows 11,146922
+Dell,Intel i7,64,15.6,128,Windows 10,222517
+Microsoft,Intel i5,32,16,256,Linux,148030
+Asus,AMD Ryzen 7,64,17.3,2048,Linux,257096
+Avita,AMD Ryzen 5,4,17.3,512,Windows 11,95895
+Razer,Intel i5,4,14,512,Windows 11,101577
+Microsoft,AMD Ryzen 9,64,16,2048,Windows 11,281426
+Dell,Intel i9,8,15.6,256,Linux,131333
+Infinix,AMD Ryzen 5,32,13.3,256,Windows 10,138565
+Asus,Intel i5,64,17.3,2048,Linux,242430
+Huawei,Intel i7,16,15.6,1024,Windows 11,139120
+Razer,AMD Ryzen 3,16,13.3,2048,Windows 11,143560
+HP,AMD Ryzen 5,4,15.6,128,Linux,88511
+Dell,AMD Ryzen 3,16,17.3,128,Windows 10,104705
+Huawei,AMD Ryzen 9,4,15.6,2048,Windows 11,155149
+LG,AMD Ryzen 7,64,15.6,256,Windows 10,217585
+Lenovo,AMD Ryzen 3,64,15.6,128,Windows 10,194578
+MSI,AMD Ryzen 7,32,16,256,Windows 10,171055
+Dell,Intel i3,4,16,2048,Windows 11,119397
+Apple,Apple M2,8,15.6,1024,macOS,186052
+HP,AMD Ryzen 7,64,13.3,256,Linux,222754
+Avita,Intel i9,32,16,1024,Windows 11,188342
+Razer,Intel i5,8,14,256,Windows 11,110074
+Xiaomi,AMD Ryzen 5,64,14,1024,Windows 11,221853
+Infinix,AMD Ryzen 5,8,13.3,256,Linux,91930
+Samsung,Intel i3,64,15.6,512,Windows 10,203869
+LG,Intel i9,4,16,512,Linux,129475
+Xiaomi,AMD Ryzen 7,8,16,256,Linux,113812
+Razer,AMD Ryzen 9,64,14,512,Linux,262986
+Asus,AMD Ryzen 5,8,15.6,2048,Linux,127456
+Samsung,AMD Ryzen 3,8,16,512,Linux,86609
+Apple,Apple M3,16,17.3,512,macOS,213302
+HP,Intel i7,4,15.6,512,Windows 10,110826
+Asus,AMD Ryzen 3,16,14,2048,Linux,137857
+Acer,AMD Ryzen 5,8,13.3,512,Windows 10,96283
+LG,AMD Ryzen 7,16,16,2048,Linux,156633
+Huawei,Intel i7,16,15.6,512,Windows 10,129649
+Razer,Intel i7,4,15.6,2048,Windows 10,154477
+HP,Intel i9,8,13.3,512,Windows 11,132751
+Asus,AMD Ryzen 3,16,15.6,512,Windows 10,102737
+Asus,Intel i5,4,14,256,Windows 10,82092
+MSI,AMD Ryzen 9,8,13.3,512,Windows 11,148542
+Xiaomi,Intel i7,4,16,256,Windows 10,104202
+Microsoft,Intel i5,64,17.3,512,Linux,223153
+Acer,Intel i9,32,15.6,512,Windows 10,187410
+LG,Intel i3,16,16,1024,Windows 11,117401
+Microsoft,Intel i9,16,17.3,128,Windows 10,145455
+Asus,Intel i5,4,15.6,256,Linux,88902
+Infinix,AMD Ryzen 3,64,13.3,128,Linux,188624
+MSI,AMD Ryzen 9,64,14,2048,Linux,287072
+Infinix,Intel i9,64,13.3,2048,Linux,277454
+Infinix,AMD Ryzen 9,8,14,256,Linux,125648
+HP,AMD Ryzen 9,64,14,128,Linux,237958
+Razer,Intel i7,8,13.3,256,Windows 10,124967
+Microsoft,Intel i9,64,13.3,256,Windows 11,241225
+Dell,AMD Ryzen 7,64,14,1024,Linux,242158
+Acer,AMD Ryzen 7,8,13.3,512,Windows 11,108015
+LG,AMD Ryzen 5,32,13.3,1024,Windows 10,156206
+Lenovo,Intel i9,32,15.6,512,Windows 10,182966
+Apple,Apple M2,4,15.6,512,macOS,171470
+Lenovo,Intel i9,8,13.3,256,Windows 11,133634
+MSI,AMD Ryzen 5,16,14,128,Windows 10,124230
+Avita,AMD Ryzen 9,4,16,2048,Windows 10,156569
+Infinix,Intel i5,64,13.3,512,Windows 11,205634
+Lenovo,Intel i9,4,14,1024,Linux,140292
+Microsoft,Intel i7,32,17.3,1024,Linux,176183
+Dell,Intel i9,4,14,1024,Windows 11,141511
+Xiaomi,Intel i7,32,17.3,1024,Windows 10,174508
+MSI,Intel i3,8,15.6,256,Windows 11,94961
+Avita,Intel i9,16,13.3,128,Windows 10,137484
+Microsoft,AMD Ryzen 9,64,13.3,512,Windows 11,244701
+HP,AMD Ryzen 9,32,15.6,128,Linux,182480
+Razer,Intel i9,64,17.3,128,Windows 11,252456
+LG,Intel i9,8,17.3,512,Linux,135919
+Acer,Intel i5,4,13.3,1024,Windows 11,98900
+Xiaomi,Intel i5,32,14,1024,Windows 10,160165
+Apple,Apple M3,64,13.3,512,macOS,308767
+Huawei,AMD Ryzen 3,16,13.3,2048,Linux,135916
+Microsoft,Intel i5,64,16,1024,Linux,224096
+Lenovo,AMD Ryzen 5,16,16,1024,Linux,130899
+Infinix,Intel i9,8,15.6,256,Linux,124803
+Acer,AMD Ryzen 3,32,16,2048,Windows 11,164594
+Lenovo,AMD Ryzen 3,4,14,2048,Linux,113710
+Asus,Intel i7,16,15.6,1024,Windows 11,137325
+Microsoft,AMD Ryzen 7,32,15.6,1024,Windows 10,181820
+HP,Intel i9,8,16,2048,Windows 10,169455
+Dell,AMD Ryzen 9,8,14,512,Linux,140478
+Samsung,Intel i9,16,16,128,Linux,139012
+Lenovo,AMD Ryzen 9,8,17.3,128,Linux,131921
+LG,Intel i7,32,13.3,2048,Windows 10,187579
+Razer,AMD Ryzen 7,16,13.3,256,Windows 10,137746
+Lenovo,AMD Ryzen 5,4,17.3,512,Linux,102266
+Infinix,Intel i9,4,17.3,128,Windows 11,116794
+Asus,AMD Ryzen 5,64,15.6,128,Windows 10,200280
+Microsoft,Intel i7,64,15.6,2048,Windows 10,266152
+Microsoft,Intel i5,32,14,256,Linux,145134
+Microsoft,AMD Ryzen 9,16,16,512,Windows 11,152439
+HP,AMD Ryzen 3,8,16,2048,Windows 10,125139
+LG,Intel i5,64,13.3,128,Linux,199138
+Apple,Apple M2,4,15.6,512,macOS,166928
+Microsoft,Intel i5,64,17.3,256,Linux,214125
+Avita,Intel i5,16,17.3,128,Windows 11,106527
+Lenovo,Intel i5,8,16,2048,Linux,139554
+HP,AMD Ryzen 3,64,16,256,Windows 11,203193
+Samsung,AMD Ryzen 9,8,13.3,256,Linux,122147
+Xiaomi,AMD Ryzen 5,64,17.3,256,Windows 10,211641
+Apple,Apple M3,8,14,512,macOS,196909
+Huawei,AMD Ryzen 3,32,16,1024,Windows 11,143910
+Avita,AMD Ryzen 3,8,13.3,1024,Linux,99373
+Avita,Intel i7,32,15.6,256,Windows 11,158871
+Dell,Intel i9,32,15.6,2048,Windows 10,222189
+Asus,AMD Ryzen 3,8,14,2048,Linux,115195
+Microsoft,AMD Ryzen 9,8,14,512,Linux,142658
+Razer,AMD Ryzen 9,4,17.3,256,Windows 11,136603
+Samsung,AMD Ryzen 7,8,17.3,2048,Windows 11,147835
+Dell,Intel i5,32,14,256,Windows 11,143469
+Infinix,AMD Ryzen 7,8,17.3,256,Windows 10,109545
+Xiaomi,Intel i7,64,16,256,Windows 10,222418
+Dell,AMD Ryzen 3,8,14,1024,Windows 10,100884
+Microsoft,AMD Ryzen 9,16,15.6,256,Linux,150681
+Razer,AMD Ryzen 5,4,15.6,256,Linux,103318
+Dell,Intel i7,4,14,512,Linux,112976
+Avita,AMD Ryzen 5,32,13.3,2048,Windows 11,177147
+Infinix,Intel i9,64,16,512,Windows 11,248082
+Dell,Intel i7,64,14,256,Linux,220672
+Apple,Apple M3,8,14,512,macOS,195143
+Razer,Intel i7,64,16,256,Windows 10,237183
+Dell,Intel i3,64,17.3,128,Windows 11,197975
+Lenovo,Intel i9,8,16,1024,Windows 11,145499
+Huawei,AMD Ryzen 3,64,16,512,Linux,201769
+Acer,AMD Ryzen 9,8,13.3,512,Linux,127295
+HP,Intel i5,64,15.6,2048,Windows 10,242283
+LG,AMD Ryzen 3,4,13.3,256,Windows 11,73175
+Razer,Intel i7,16,16,512,Windows 11,150034
+Lenovo,AMD Ryzen 3,4,14,2048,Windows 11,113307
+Avita,Intel i5,16,14,1024,Windows 10,128748
+Dell,AMD Ryzen 9,8,15.6,256,Windows 11,137622
+Xiaomi,Intel i3,8,14,128,Windows 11,80552
+Samsung,AMD Ryzen 9,8,14,1024,Windows 10,143748
+Infinix,Intel i3,8,14,512,Linux,87306
+Infinix,Intel i3,32,16,1024,Linux,153020
+Asus,Intel i3,64,15.6,256,Windows 10,197598
+Dell,Intel i5,32,16,512,Linux,154130
+Huawei,Intel i7,64,13.3,128,Linux,212251
+Xiaomi,AMD Ryzen 7,16,14,512,Linux,130808
+Microsoft,Intel i9,8,14,256,Windows 11,135806
+MSI,Intel i7,4,13.3,128,Windows 10,109762
+Infinix,AMD Ryzen 7,8,15.6,128,Windows 10,103002
+LG,AMD Ryzen 3,8,13.3,512,Linux,82890
+Apple,Apple M1,4,17.3,2048,macOS,183687
+Apple,Apple M1,64,16,512,macOS,269657
+Apple,Apple M2,8,16,2048,macOS,212137
+Lenovo,Intel i3,16,14,256,Linux,108670
+MSI,Intel i7,16,13.3,128,Windows 10,135854
+LG,Intel i9,16,15.6,2048,Windows 10,183979
+Lenovo,Intel i9,32,17.3,512,Windows 10,186117
+Avita,AMD Ryzen 3,64,16,512,Linux,204548
+Infinix,AMD Ryzen 9,4,15.6,1024,Linux,135998
+Xiaomi,AMD Ryzen 5,16,14,128,Linux,110956
+HP,AMD Ryzen 7,64,13.3,512,Linux,233449
+Infinix,AMD Ryzen 7,8,14,128,Windows 11,103796
+Microsoft,AMD Ryzen 7,8,16,1024,Linux,131309
+HP,Intel i9,8,17.3,2048,Windows 10,172513
+MSI,AMD Ryzen 7,8,16,2048,Windows 10,165186
+Xiaomi,Intel i7,4,13.3,1024,Windows 11,115662
+Microsoft,AMD Ryzen 9,4,13.3,256,Windows 11,128076
+Lenovo,Intel i7,32,17.3,1024,Linux,178220
+Razer,Intel i3,64,16,2048,Linux,243949
+Huawei,AMD Ryzen 3,4,16,128,Windows 11,74004
+HP,AMD Ryzen 3,4,13.3,2048,Linux,112084
+Huawei,Intel i3,64,13.3,512,Linux,195496
+Xiaomi,Intel i5,64,13.3,512,Windows 10,206243
+Acer,Intel i5,16,14,1024,Windows 11,128199
+Asus,AMD Ryzen 9,64,16,1024,Linux,257097
+Asus,AMD Ryzen 5,4,14,128,Windows 11,86679
+Apple,Apple M2,4,16,256,macOS,166309
+Avita,Intel i7,4,17.3,128,Linux,105659
+HP,Intel i5,64,16,2048,Linux,248938
+Razer,Intel i3,64,16,512,Windows 11,217179
+Samsung,Intel i7,64,14,1024,Linux,237475
+Huawei,AMD Ryzen 9,16,17.3,128,Windows 10,148453
+Asus,Intel i9,8,17.3,512,Linux,137635
+LG,Intel i7,16,15.6,512,Linux,129350
+Samsung,AMD Ryzen 9,8,17.3,2048,Windows 10,169815
+Razer,AMD Ryzen 5,16,13.3,512,Linux,125028
+MSI,Intel i7,32,17.3,2048,Windows 10,214465
+Acer,AMD Ryzen 9,16,13.3,128,Windows 10,137076
+Microsoft,AMD Ryzen 9,32,14,256,Linux,181877
+Lenovo,Intel i5,8,14,1024,Windows 11,117020
+Apple,Apple M1,64,15.6,2048,macOS,297550
+Microsoft,AMD Ryzen 9,16,13.3,256,Windows 11,151434
+Samsung,Intel i3,16,13.3,256,Windows 10,93457
+Lenovo,AMD Ryzen 5,32,15.6,2048,Windows 10,181371
+Avita,Intel i3,16,13.3,128,Windows 11,92825
+Microsoft,Intel i7,8,17.3,256,Windows 10,119686
+Apple,Apple M3,4,15.6,256,macOS,185713
+Xiaomi,Intel i5,32,13.3,128,Windows 10,140762
+Microsoft,AMD Ryzen 3,4,16,2048,Windows 11,119039
+Razer,AMD Ryzen 5,64,16,1024,Windows 10,233644
